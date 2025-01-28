@@ -1,5 +1,4 @@
 # SCT_DS_1
-Prodigy InfoTech Data Science Internship Task 1:
 
 # Task 1 - Exploratory Data Analysis (EDA)
 
